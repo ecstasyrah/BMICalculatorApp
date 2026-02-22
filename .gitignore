@@ -1,0 +1,6 @@
+# Source Control Ignore List for .NET MAUI
+bin/
+obj/
+*.user
+*.userprefs
+.DS_Store
